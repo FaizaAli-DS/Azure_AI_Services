@@ -1,0 +1,17 @@
+#The Language service is an Azure AI service that supports the analysis of text, including 
+>language detection, 
+>sentiment analysis, 
+>key phrase extraction, and 
+>entity recognition.
+
+#Example
+Suppose a travel agency wants to process hotel reviews that have been submitted to the 
+company’s website. By using the Language service, they can determine the language each review is written in, the sentiment 
+(positive, neutral, or negative) of the reviews,key phrases that might indicate the main topics discussed in the review, and 
+named entities, such as places, landmarks, or people mentioned in the reviews.
+
+
+
+
+
+
